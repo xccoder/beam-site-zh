@@ -197,5 +197,5 @@ coGbkResultCollection.apply(...);
 
 ##  下一步
 
-*   [Create your own pipeline]({{ site.baseurl }}/documentation/pipelines/create-your-pipeline).
-*   [Test your pipeline]({{ site.baseurl }}/documentation/pipelines/test-your-pipeline).
+*   [创建你自己的 pipeline]({{ site.baseurl }}/documentation/pipelines/create-your-pipeline).
+*   [测试你的 pipeline]({{ site.baseurl }}/documentation/pipelines/test-your-pipeline).
